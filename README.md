@@ -28,6 +28,6 @@ Our model accurately captures:
 
 ## 📊 Example Use-Cases
 
--Simulate T cell expansion from real or synthetic neoantigen–TCR data.
--Predict the most immunogenic neoantigens for vaccine design.
--Analyze clone size distributions in different tumor regions.
+- Simulate T cell expansion from real or synthetic neoantigen–TCR data.
+- Predict the most immunogenic neoantigens for vaccine design.
+- Analyze clone size distributions in different tumor regions.
