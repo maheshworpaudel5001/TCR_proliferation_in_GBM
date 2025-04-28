@@ -26,3 +26,7 @@ Our model accurately captures:
 - 🧠 Compares T cell expansion in GBM vs BrMET patients.
 - 💉 Ranks neoantigen peptides by their ability to induce T cell proliferation—relevant for vaccine design.
 
+## 📊 Example Use-Cases
+-Simulate T cell expansion from real or synthetic neoantigen–TCR data.
+-Predict the most immunogenic neoantigens for vaccine design.
+-Analyze clone size distributions in different tumor regions.
