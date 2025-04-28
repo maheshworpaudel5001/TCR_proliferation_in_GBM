@@ -31,3 +31,8 @@ Our model accurately captures:
 - Simulate T cell expansion from real or synthetic neoantigen–TCR data.
 - Predict the most immunogenic neoantigens for vaccine design.
 - Analyze clone size distributions in different tumor regions.
+
+## 🤝 Acknowledgments
+
+- This work was supported by the Nationwide Children’s Hospital. We thank Dr. Elaine Mardis and collaborators for valuable insights and data access support.
+
