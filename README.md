@@ -26,16 +26,3 @@ Our model accurately captures:
 - 🧠 Compares T cell expansion in GBM vs BrMET patients.
 - 💉 Ranks neoantigen peptides by their ability to induce T cell proliferation—relevant for vaccine design.
 
----
-
-TCR_proliferation_in_GBM/
-│
-├── data/                       # Sample datasets (TCRs, neoantigens)
-├── notebooks/                  # Jupyter notebooks for data analysis & modeling
-├── scripts/                    # Core model and helper scripts
-├── figures/                    # Figures generated for the manuscript
-├── results/                    # Model output and intermediate files
-├── Supplementary Table.xlsx    # Supplementary data (uploaded separately)
-├── LICENSE
-└── README.md                   # This file
-
