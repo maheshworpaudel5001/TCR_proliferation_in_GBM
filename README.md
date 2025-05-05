@@ -1,6 +1,6 @@
 # 🧠 TCR Proliferation in Primary and Metastatic Brain Tumors
 
-This repository contains sample code and sample data for the study:
+This repository contains sample code and sample data for the study. The actual original computations are inside the original computation folder. We suggest to go through the `tutorial.ipynb` to see the reasoning and computational workflow in our study.
 
 **"Neoantigens and Stochastic Fluctuations Regulate T Cell Proliferation in Primary and Metastatic Malignant Brain Tumors"**  
 *Maheshwor Poudel, William C. Stewart, Ciriyam Jayaprakash, and Jayajit Das*
