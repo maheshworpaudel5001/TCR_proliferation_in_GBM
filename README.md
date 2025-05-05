@@ -6,21 +6,21 @@ This repository contains sample code and sample data for the study. The actual o
 *Maheshwor Poudel, William C. Stewart, Ciriyam Jayaprakash, and Jayajit Das*
 *https://doi.org/10.1101/2025.04.23.650340
 
+## 🐍📦
 Requirements to run tutorial.ipynb
 ==================================
-Python 3.13.1
-    tqdm 4.67.1
-    numpy 2.0.2
-    pandas 2.2.3
-    matplotlib 3.10.0
-    scipy version 1.15.1
+python==3.13.1
+tqdm==4.67.1
+numpy==2.0.2
+pandas==2.2.3
+matplotlib==3.10.0
+scipy==1.15.1
 
 For notebooks and codes inside original computation install following additional python packages:
-=================================================================================================
-mpi4py 4.0.1
-numba 0.60.0
-seaborn 0.13.2
-h5py 3.12.1
+mpi4py==4.0.1
+numba==0.60.0
+seaborn==0.13.2
+h5py==3.12.1
 
 ## 🧬 Overview
 
